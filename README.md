@@ -1,3 +1,3 @@
-This application will show my Full stack software developement skills and capabilities.
+This application will show my Full stack software developement skills and capabilities. The scenario is im making an MVP software application for a banking startup which is a notepad app (yeah pretty interesting).
 
 My name is Faizon and i hope you enjoy this application which will be accessed in the web soon.
