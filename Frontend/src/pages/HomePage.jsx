@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
-import RateLimitedUI from "../components/RatelimitedUI";
+import RateLimitedUI from "../components/RateLimitedUI";
 //import { data } from "react-router";
 import api from "../lib/axios";
 //import { set } from "mongoose";
