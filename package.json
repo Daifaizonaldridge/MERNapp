@@ -1,0 +1,21 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "This application will show my Full stack software developement skills and capabilities. The scenario is im making an MVP software application for a banking startup which is a notepad app (yeah pretty interesting).",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
+    "start": "npm run start --prefix Backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daifaizonaldridge/MERNapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daifaizonaldridge/MERNapp/issues"
+  },
+  "homepage": "https://github.com/Daifaizonaldridge/MERNapp#readme"
+}
